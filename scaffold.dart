@@ -6,6 +6,7 @@ void main() => runApp(
         home: Scaffold(
           appBar: AppBar(
           title: Text('AppBar'),
+          backgroundColor: Colors.lightGreen,
           ),
           backgroundColor: Colors.black,
         ),
